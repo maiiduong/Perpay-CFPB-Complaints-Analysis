@@ -4,7 +4,6 @@ An independent analysis of **31,252 CFPB consumer complaints** (Nov 2023 – Nov
 
 **Tools:** Excel (Power Query, pivot tables) · Power BI (DAX) · PowerPoint
 
-![Power BI dashboard](images/dashboard.png)
 
 ## Key findings
 
