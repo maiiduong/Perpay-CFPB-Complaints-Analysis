@@ -42,12 +42,13 @@ An independent analysis of **31,252 CFPB consumer complaints** (Nov 2023 – Nov
 
 | File | What it is |
 |---|---|
-| `deck/` | 5-slide presentation (PDF) |
-| `dashboard/` | Power BI file (.pbix) and PDF export |
-| `analysis/` | Excel workbook with the Power Query steps and pivot tables |
-| `data/` | Raw CFPB export (CSV) |
-| `images/` | Dashboard screenshots |
+| `Melanie Duong_Perpay CFPB Complaints Deck.pdf` | 5-slide presentation: findings, recommendations, limitations |
+| `Perpay Project.pbix` | Interactive Power BI dashboard (open in Power BI Desktop) |
+| `Perpay Project.pdf` | PDF export of the dashboard (the map does not export; see `dashboard.png`) |
+| `Perpay_Complaint_Analysis.xlsx` | Excel workbook with the Power Query cleaning steps and pivot tables |
+| `dashboard.png` | Dashboard screenshot |
 
+The raw data can be re-downloaded from the [CFPB Consumer Complaint Database](https://www.consumerfinance.gov/data-research/consumer-complaints/) using the companies and dates above.
 ## Limitations
 
 - Complaints are customer-reported and not verified by the CFPB.
